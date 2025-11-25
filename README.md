@@ -142,6 +142,3 @@ The provided `penguin.gif` is ideal for testing because binary files highlight p
 
 * **Manuel Amorim**
 * **Diogo Costa**
-
-* A troubleshooting section
-* A detailed description of your error-handling strategy
